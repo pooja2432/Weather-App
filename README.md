@@ -34,9 +34,9 @@ A responsive and dynamic Weather Forecast Web Application built using HTML, CSS,
 
 ## 📸 Screenshots
 
-![Home Page](screenshots/1.png)
-![Desktop View](screenshots/2.png)
-![Mobile View](screenshots/4.png)
+![Home Page](weatherapp -using-openweathermap/screenshots/1.png)
+![Desktop View](weatherapp -using-openweathermap/screenshots/2.png)
+![Mobile View](weatherapp -using-openweathermap/screenshots/4.png)
 
 ---
 
